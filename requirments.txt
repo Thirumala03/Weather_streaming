@@ -1,0 +1,5 @@
+Flask
+pymongo
+kafka-python
+paho-mqtt
+requests
